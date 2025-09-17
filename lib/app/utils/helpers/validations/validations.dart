@@ -1,0 +1,3 @@
+class AppValidations {
+  AppValidations._();
+}

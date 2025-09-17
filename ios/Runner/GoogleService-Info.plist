@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>823642880461-6at6i9ci0imb356l0ur5lgruptngr66u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.823642880461-6at6i9ci0imb356l0ur5lgruptngr66u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>823642880461-l2059kl7j7mb68dtanaei2k4ft040sql.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIvuBAi-mqvI8-3bjvD8dEf-ecSXxI2aU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>823642880461</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.kmtemp.social.login.app</string>
+	<key>PROJECT_ID</key>
+	<string>flutterfire-23423</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutterfire-23423.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:823642880461:ios:5321ff2b7c2d3a992e6c84</string>
+</dict>
+</plist>
